@@ -98,8 +98,8 @@ links:
       icon: fab fa-vine
   - facebook:
       name: Facebook
-      show: false
-      href: https://facebook.com/YOUR_FB_USERNAME
+      show: true
+      href: https://www.facebook.com/profile.php?id=61551667301328
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
