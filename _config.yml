@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Komeiji Koishi
 #subtitle:
-subtitle: Z Z
+subtitle: Zh*Zh
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Komeiji Koishi
@@ -28,13 +28,13 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://tsjensen.github.io/fuse-core/
+url: https://wudouye.github.io/Komeiji Koishi/
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
 # If not empty, be careful to keep the leading slash, and don't add a slash at the end.
 #baseurl: ''
-baseurl: '/fuse-core'
+baseurl: '/Komeiji Koishi'
 
 # Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
@@ -84,12 +84,12 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
+      href: https://x.com/wudouye
       icon: fab fa-twitter
   - weibo:
       name: 微博
       show: true
-      href: https://weibo.com/YOUR_WEIBO_USERNAME
+      href: https://weibo.com/u/7898111334
       icon: fab fa-weibo
   - vine:
       name: Vine
@@ -134,7 +134,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/tsjensen
+      href: https://github.com/wudouye
       icon: fab fa-github
   - codepen:
       name: CodePen
@@ -169,19 +169,18 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:1605429250@qq.com
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
       show: true
-      href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
+      href: https://fantia.jp/fanclubs/24531
       icon: fas fa-key
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    慧老师周日打球
 
 #EOF
