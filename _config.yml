@@ -78,8 +78,8 @@ links:
       icon: fab fa-linkedin
   - googleplus:
       name: Google+
-      show: false
-      href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
+      show: true
+      href: mailto:wudouyejintianming@gmail.com
       icon: fab fa-google-plus
   - twitter:
       name: Twitter
@@ -103,7 +103,7 @@ links:
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
@@ -118,8 +118,8 @@ links:
       icon: fab fa-flickr
   - steam:
       name: Steam
-      show: false
-      href: http://steamcommunity.com/id/YOUR_STEAM_CUSTOM_ID
+      show: true
+      href: http://steamcommunity.com/id/wudouye
       icon: fab fa-steam
   - soundcloud:
       name: Soundcloud
@@ -164,7 +164,7 @@ links:
   - blog:
       name: Blog
       show: true
-      href: http://host.domain/your_blog
+      href: http://pixiv.net/users/92588709
       icon: fas fa-book-open
   - email:
       name: Email
